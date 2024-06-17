@@ -1,2 +1,2 @@
-# Artificial-Earth-satellites
-MATHEMATICAL MODELING OF THE ORBITAL MOTION OF AN ARTIFICIAL EARTH SATELLITE, TAKING INTO ACCOUNT THE DISTURBANCE FROM AN EXTERNAL CELESTIAL BODY
+# Artificial Earth satellites
+МАТЕМАТИЧЕСКОЕ МОДЕЛИРОВАНИЕ ОРБИТАЛЬНОГО ДВИЖЕНИЯ ИСКУССТВЕННОГО СПУТНИКА ЗЕМЛИ С УЧЕТОМ ВОЗМУЩЕНИЯ ОТ ВНЕШНЕГО НЕБЕСНОГО ТЕЛА
